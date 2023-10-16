@@ -105,6 +105,7 @@ And always remember that sending alerts in case of a power outtage only make sen
 This sketch is mostly copied and pasted from several other projects.
 Standing on the heads of giants, big thanks and great respect to the writers and/or creators of:
 
+- https://github.com/daniel-jong/esp8266_p1meter
 - https://github.com/jantenhove/P1-Meter-ESP8266
 - https://github.com/neographikal/P1-Meter-ESP8266-MQTT
 - http://gejanssen.com/howto/Slimme-meter-uitlezen/
